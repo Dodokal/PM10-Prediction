@@ -45,7 +45,7 @@ Ensure you have **R** (version 4.x or later) installed. The following R packages
 
 4. **Install necessary R packages**:
     ```r
-    install.packages(c("rgdal", "raster", "plyr", "dplyr", "RStoolbox", "RColorBrewer",
+    install.packages(c("terra", "raster", "plyr", "dplyr", "RStoolbox", "RColorBrewer",
                        "ggplot2", "sp", "caret", "doParallel", "e1071", "pdftools",
                        "gridExtra", "GGally", "doSNOW", "klaR", "pROC"))
     ```
