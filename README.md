@@ -13,7 +13,7 @@ All scripts are implemented in R and include data preprocessing, model training 
 
 Ensure you have **R** (version 4.x or later) installed. The following R packages are required (they can be installed via `install.packages()` if not already present):
 
-- rgdal
+- terra
 - raster
 - plyr
 - dplyr
