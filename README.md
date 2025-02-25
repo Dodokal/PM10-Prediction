@@ -49,7 +49,7 @@ Ensure you have **R** (version 4.x or later) installed. The following R packages
                        "ggplot2", "sp", "caret", "doParallel", "e1071", "pdftools",
                        "gridExtra", "GGally", "doSNOW", "klaR", "pROC"))
     ```
-
+Data: https://zenodo.org/records/12825036
 ## Usage
 
 Each model (RF, KNN, NB) has its own R script located in the `scripts` directory:
